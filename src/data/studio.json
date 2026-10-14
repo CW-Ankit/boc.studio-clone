@@ -1,0 +1,284 @@
+{
+  "studioName": "Boc.Studio",
+  "aboutBody": [
+    {
+      "_key": "89dc74f2c3a151a7",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "9c068f707ac9f6d0",
+          "_type": "span",
+          "marks": [],
+          "text": "Boc.Studio is a creative brand studio co-led by "
+        },
+        {
+          "_key": "bd781a6ec09804d1",
+          "_type": "span",
+          "marks": [
+            "linkJordi"
+          ],
+          "text": "Jordi Canals"
+        },
+        {
+          "_key": "b723a1419c4c3229",
+          "_type": "span",
+          "marks": [],
+          "text": " and "
+        },
+        {
+          "_key": "a6dddc178c5a3447",
+          "_type": "span",
+          "marks": [
+            "linkOriol"
+          ],
+          "text": "Oriol Bada"
+        },
+        {
+          "_key": "70106a54352b233f",
+          "_type": "span",
+          "marks": [],
+          "text": " with a focus on "
+        },
+        {
+          "_key": "svcSpanCreate",
+          "_type": "span",
+          "marks": [
+            "svcCreate"
+          ],
+          "text": "creating"
+        },
+        {
+          "_key": "svcSpanComma",
+          "_type": "span",
+          "marks": [],
+          "text": ", "
+        },
+        {
+          "_key": "svcSpanRefresh",
+          "_type": "span",
+          "marks": [
+            "svcRefresh"
+          ],
+          "text": "refreshing"
+        },
+        {
+          "_key": "svcSpanAnd",
+          "_type": "span",
+          "marks": [],
+          "text": " and "
+        },
+        {
+          "_key": "svcSpanBoost",
+          "_type": "span",
+          "marks": [
+            "svcBoost"
+          ],
+          "text": "boosting"
+        },
+        {
+          "_key": "svcSpanTail",
+          "_type": "span",
+          "marks": [],
+          "text": " brands and aesthetics."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "linkJordi",
+          "_type": "link",
+          "href": "https://www.linkedin.com/in/jordicanalsbocstudio/"
+        },
+        {
+          "_key": "linkOriol",
+          "_type": "link",
+          "href": "https://www.linkedin.com/in/oriol-bada-otero/"
+        },
+        {
+          "_key": "svcCreate",
+          "_type": "servicePopup",
+          "service": "create"
+        },
+        {
+          "_key": "svcRefresh",
+          "_type": "servicePopup",
+          "service": "refresh"
+        },
+        {
+          "_key": "svcBoost",
+          "_type": "servicePopup",
+          "service": "boost"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "fc18df2393b70533",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "521f78d144b91107",
+          "_type": "span",
+          "marks": [],
+          "text": ""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "b16b359df5de7701",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "497c3043b0000f50",
+          "_type": "span",
+          "marks": [],
+          "text": "We are driven by a constant curious attitude and rooted in pragmatism to bridge the gap between what brands are and what they aspire to be. Through new tech and creativity we push brand identities, campaigns and visual systems with utilitarian impact."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    }
+  ],
+  "getInTouch": {
+    "_type": "getInTouch",
+    "address": {
+      "_type": "address",
+      "postcode": "08024 Barcelona",
+      "street": "Carrer Alegre de Dalt, 95"
+    },
+    "inquiryEmail": "hola@boc.studio",
+    "instagram": "https://www.instagram.com/studio.boc",
+    "linkedin": "https://www.linkedin.com/company/boc-studio"
+  },
+  "selectedClients": [
+    "Sport",
+    "Yaba",
+    "Audi",
+    "Hays",
+    "The Seam",
+    "Skoda"
+  ],
+  "services": [
+    "Branding",
+    "Creative Direction",
+    "2D Motion Design",
+    "AI Production",
+    "3D Animation"
+  ],
+  "broaderEcosystem": [
+    {
+      "_key": "ac52808a5f64cadd",
+      "_type": "ecosystemLink",
+      "label": "Needless Studio",
+      "url": "https://needlessstudio.com"
+    },
+    {
+      "_key": "54256bdddc33b967",
+      "_type": "ecosystemLink",
+      "label": "Social Coherence",
+      "url": "https://socialcoherence.com"
+    }
+  ],
+  "servicePopups": [
+    {
+      "_key": "popupCreate",
+      "key": "create",
+      "label": "Creating new brands",
+      "headline": "We make your brand match your vision and aspirations.",
+      "body": "Every brand sets a new ownable landscape. Most brands skip strategy. They jump straight to how they look and end up saying nothing.\n\nOur Creating method starts earlier bridging a gap between what your brand is and what it aspires to be.",
+      "offerLabel": "Creating offers a lot",
+      "offerIntro": "Every brand starts from a different place and we create around what your brand actually needs.",
+      "offerItems": [
+        {
+          "_key": "oc1",
+          "heading": "Strategic approach and audience definition",
+          "subtext": "If this brand were a person, who would it be? That answer becomes the filter for every decision that follows."
+        },
+        {
+          "_key": "oc2",
+          "heading": "Value proposition and naming",
+          "subtext": "What you offer that others can't — and a name built to hold up in the market, not just in the deck."
+        },
+        {
+          "_key": "oc3",
+          "heading": "Complete visual identity",
+          "subtext": "Not a logo: a system. Typography, color, motion and image language that work everywhere the brand lives."
+        },
+        {
+          "_key": "oc4",
+          "heading": "Tools and generative systems for your team",
+          "subtext": "No studio dependency. Templates, generative tools and clear rules so your team can apply the brand from day one."
+        }
+      ],
+      "impactLabel": "Creating has an impact",
+      "impactText": "You launch with a brand your team can explain in one sentence, apply without friction, and grow without rebuilding it in two years."
+    },
+    {
+      "_key": "popupRefresh",
+      "key": "refresh",
+      "label": "Refreshing existing brands",
+      "headline": "We bridge the gap between what your brand and what it is now.",
+      "body": "Most brands don't fail overnight. They drift — the company evolves, the market moves, and the brand stays where it was.\n\nOur Refreshing method protects what you've earned. We keep what still works, fix what doesn't, and bring the brand back to where the company actually is.",
+      "offerLabel": "Refreshing offers a lot",
+      "offerIntro": "Every refresh starts from a different place and we build the program around what your brand actually needs.",
+      "offerItems": [
+        {
+          "_key": "or1",
+          "heading": "Brand audit and strategic diagnosis",
+          "subtext": "Who is this brand today versus who it needs to be? The output isn't a report — it's a decision on what stays and what changes."
+        },
+        {
+          "_key": "or2",
+          "heading": "Repositioning and message refinement",
+          "subtext": "How the brand talks about itself: value proposition, tone, key messages. Words your team can defend in a sales meeting."
+        },
+        {
+          "_key": "or3",
+          "heading": "Visual system evolution",
+          "subtext": "Current without losing recognition. Typography, color, motion and image language updated for everywhere the brand lives today."
+        },
+        {
+          "_key": "or4",
+          "heading": "Rollout tools and systems for your team",
+          "subtext": "A refresh only works if it replaces the old brand everywhere. Templates, guidelines and generative tools so the new system sticks."
+        }
+      ],
+      "impactLabel": "Refreshing has an impact",
+      "impactText": "Your brand feels like the company you've become. Recognizable to those who know you, relevant to those who don't yet."
+    },
+    {
+      "_key": "popupBoost",
+      "key": "boost",
+      "label": "Boosting established brands",
+      "headline": "We make your brand perform when it matters most.",
+      "body": "A strong brand isn't the same as a brand in motion. Launches, campaigns, milestones — moments where the brand has to perform fast, without breaking what it stands for.\n\nOur Boosting method turns your identity into momentum. One clear concept, executed with the speed and craft the moment demands.",
+      "offerLabel": "Boosting offers a lot",
+      "offerIntro": "Every activation has its own goal and deadline and we build the program around what the moment demands.",
+      "offerItems": [
+        {
+          "_key": "ob1",
+          "heading": "Concept and creative direction",
+          "subtext": "One idea strong enough to carry the whole campaign, rooted in who the brand already is."
+        },
+        {
+          "_key": "ob2",
+          "heading": "Key visuals and campaign assets",
+          "subtext": "Hero imagery and the system around it: adaptable, coherent, ready for every format and channel."
+        },
+        {
+          "_key": "ob3",
+          "heading": "Motion, 3D and generative production",
+          "subtext": "Motion, CGI and AI-assisted workflows that produce at a speed traditional pipelines can't match — without losing craft."
+        },
+        {
+          "_key": "ob4",
+          "heading": "Toolkits for extending the campaign",
+          "subtext": "Campaigns rarely end where planned. Systems and templates so your team can extend the activation without starting from zero."
+        }
+      ],
+      "impactLabel": "Boosting has an impact",
+      "impactText": "The brand shows up sharper than the competition at its most important moment, and your team keeps the tools to sustain it after."
+    }
+  ]
+}

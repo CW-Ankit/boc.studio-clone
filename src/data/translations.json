@@ -1,0 +1,206 @@
+{
+  "en": {
+    "nav": {
+      "work": "WORK",
+      "info": "INFO"
+    },
+    "common": {
+      "hello": "Hello",
+      "online": "ONLINE",
+      "close": "CLOSE",
+      "back": "BACK",
+      "next": "NEXT",
+      "skipToContent": "Skip to content",
+      "emailCopied": "Email copied",
+      "sayHola": "Say hola!"
+    },
+    "home": {
+      "title": "Home"
+    },
+    "work": {
+      "title": "Work",
+      "stack": "STACK",
+      "index": "INDEX",
+      "filter": "Filter",
+      "viewStack": "Stack view",
+      "viewIndex": "Index view",
+      "all": "All",
+      "viewProject": "View project",
+      "noMatch": "No projects match this filter.",
+      "backToWork": "Back to all work"
+    },
+    "info": {
+      "title": "Info",
+      "whatWeOffer": "What do we offer",
+      "impact": "Impact",
+      "closePopup": "Close popup",
+      "about": "About",
+      "selectedClients": "Selected clients",
+      "services": "Services",
+      "getInTouch": "Get in touch",
+      "inquiries": "Inquiries:",
+      "address": "Address:",
+      "language": "Language",
+      "broaderEcosystem": "Broader ecosystem"
+    },
+    "sections": {
+      "context": "Context",
+      "insight": "Insight",
+      "idea": "Idea",
+      "application": "Application",
+      "process": "Process",
+      "impact": "Impact"
+    },
+    "errors": {
+      "notFound": "Sorry, we're not here"
+    },
+    "project": {
+      "nextProject": "Next project",
+      "viewAll": "View all projects",
+      "newProject": "New project",
+      "getInTouch": "Get in touch",
+      "email": "Email",
+      "whatsapp": "Whatsapp"
+    },
+    "contact": {
+      "sentence": "Every project starts with a conversation. Tell us about your company and where you want to go.",
+      "cta": "Get in touch"
+    }
+  },
+  "ca": {
+    "nav": {
+      "work": "PROJECTES",
+      "info": "INFO"
+    },
+    "common": {
+      "hello": "Hola",
+      "online": "EN LÍNIA",
+      "close": "TANCAR",
+      "back": "ENRERE",
+      "next": "SEGÜENT",
+      "skipToContent": "Salta al contingut",
+      "emailCopied": "Email copiat",
+      "sayHola": "Say hola!"
+    },
+    "home": {
+      "title": "Inici"
+    },
+    "work": {
+      "title": "Projectes",
+      "stack": "PILA",
+      "index": "ÍNDEX",
+      "filter": "Filtre",
+      "viewStack": "Vista pila",
+      "viewIndex": "Vista índex",
+      "all": "Tots",
+      "viewProject": "Veure projecte",
+      "noMatch": "Cap projecte no coincideix amb aquest filtre.",
+      "backToWork": "Torna a tots els projectes"
+    },
+    "info": {
+      "title": "Info",
+      "whatWeOffer": "Què oferim",
+      "impact": "Impacte",
+      "closePopup": "Tancar finestra",
+      "about": "Qui som",
+      "selectedClients": "Clients seleccionats",
+      "services": "Serveis",
+      "getInTouch": "Contacte",
+      "inquiries": "Consultes:",
+      "address": "Adreça:",
+      "language": "Idioma",
+      "broaderEcosystem": "Ecosistema ampliat"
+    },
+    "sections": {
+      "context": "Context",
+      "insight": "Insight",
+      "idea": "Idea",
+      "application": "Aplicació",
+      "process": "Procés",
+      "impact": "Impacte"
+    },
+    "errors": {
+      "notFound": "Ho sentim, no hi som"
+    },
+    "project": {
+      "nextProject": "Següent projecte",
+      "viewAll": "Veure tots els projectes",
+      "newProject": "Projecte nou",
+      "getInTouch": "Escriu-nos",
+      "email": "Correu",
+      "whatsapp": "Whatsapp"
+    },
+    "contact": {
+      "sentence": "Cada projecte comença amb una conversa. Explica'ns la teva empresa i on vols arribar.",
+      "cta": "Escriu-nos"
+    }
+  },
+  "es": {
+    "nav": {
+      "work": "PROYECTOS",
+      "info": "INFO"
+    },
+    "common": {
+      "hello": "Hola",
+      "online": "EN LÍNEA",
+      "close": "CERRAR",
+      "back": "ATRÁS",
+      "next": "SIGUIENTE",
+      "skipToContent": "Saltar al contenido",
+      "emailCopied": "Email copiado",
+      "sayHola": "Say hola!"
+    },
+    "home": {
+      "title": "Inicio"
+    },
+    "work": {
+      "title": "Proyectos",
+      "stack": "PILA",
+      "index": "ÍNDICE",
+      "filter": "Filtro",
+      "viewStack": "Vista pila",
+      "viewIndex": "Vista índice",
+      "all": "Todos",
+      "viewProject": "Ver proyecto",
+      "noMatch": "Ningún proyecto coincide con este filtro.",
+      "backToWork": "Volver a todos los proyectos"
+    },
+    "info": {
+      "title": "Info",
+      "whatWeOffer": "Qué ofrecemos",
+      "impact": "Impacto",
+      "closePopup": "Cerrar ventana",
+      "about": "Nosotros",
+      "selectedClients": "Clientes seleccionados",
+      "services": "Servicios",
+      "getInTouch": "Contacto",
+      "inquiries": "Consultas:",
+      "address": "Dirección:",
+      "language": "Idioma",
+      "broaderEcosystem": "Ecosistema ampliado"
+    },
+    "sections": {
+      "context": "Contexto",
+      "insight": "Insight",
+      "idea": "Idea",
+      "application": "Aplicación",
+      "process": "Proceso",
+      "impact": "Impacto"
+    },
+    "errors": {
+      "notFound": "Lo sentimos, no estamos aquí"
+    },
+    "project": {
+      "nextProject": "Siguiente proyecto",
+      "viewAll": "Ver todos los proyectos",
+      "newProject": "Nuevo proyecto",
+      "getInTouch": "Escríbenos",
+      "email": "Email",
+      "whatsapp": "Whatsapp"
+    },
+    "contact": {
+      "sentence": "Cada proyecto empieza con una conversación. Cuéntanos tu empresa y adónde quieres llegar.",
+      "cta": "Escríbenos"
+    }
+  }
+}
